@@ -1,0 +1,13 @@
+name = "Dockpam"
+author = "Abbie"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8c57fe9a5ec7c4f62ba1793b541e9f0399e01c1595a17c830033ac9bbf2338f3"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.19.0-beta.18"
